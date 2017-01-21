@@ -7,6 +7,7 @@ package br.com.caelum.contas.modelo;
  */
 
 public class Conta {
+	
 	private double saldo;
 	private String agencia;
 	private int numero;
